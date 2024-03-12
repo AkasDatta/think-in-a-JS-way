@@ -1,8 +1,10 @@
-// if(true){
-//     var varVariable = "This is var";
-// }
+var varVariable = "This is var";
 
-// console.log(varVariable);
+if(true){
+    var varVariable = "This is var again";
+}
+
+console.log(varVariable);
 
 
 if(true){
