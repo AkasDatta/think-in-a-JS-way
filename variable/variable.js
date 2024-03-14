@@ -23,11 +23,24 @@ if(true){
 console.log(letVariable);
 */
 
-/* const
+// const
 if(true){
     const constVariable = "This is const";
     constVariable = "This is const again";
 }
 
 console.log(constVariable);
-*/
+
+
+
+
+// const 
+
+if(true){
+    const constVariable = {
+        name: "Javascript",
+        age: 12,
+    }
+    constVariable.name = "JavaScript";
+    console.log(constVariable);
+}
