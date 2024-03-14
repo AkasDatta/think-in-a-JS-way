@@ -23,6 +23,7 @@ if(true){
 console.log(letVariable);
 */
 
+
 // const
 if(true){
     const constVariable = "This is const";
@@ -41,6 +42,6 @@ if(true){
         name: "Javascript",
         age: 12,
     }
-    constVariable.name = "JavaScript";
+    constVariable.name = "JS";
     console.log(constVariable);
 }
