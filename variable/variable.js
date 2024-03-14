@@ -23,7 +23,7 @@ if(true){
 console.log(letVariable);
 */
 
-
+/*
 // const
 if(true){
     const constVariable = "This is const";
@@ -45,3 +45,4 @@ if(true){
     constVariable.name = "JS";
     console.log(constVariable);
 }
+*/
