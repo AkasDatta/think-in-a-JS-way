@@ -46,3 +46,12 @@ if(true){
     console.log(constVariable);
 }
 */
+
+if(true){
+    const constVariable = {
+        name: 12,
+        age: 32
+    }
+    constVariable = "This is const again";
+    console.log(constVariable);
+}
