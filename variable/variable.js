@@ -49,8 +49,8 @@ if(true){
 
 if(true){
     const constVariable = {
-        name: 12,
-        age: 32
+        name: "React js",
+        age: "32 years"
     }
     constVariable = "This is const again";
     console.log(constVariable);
