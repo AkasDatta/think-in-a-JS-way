@@ -45,7 +45,7 @@ if(true){
     constVariable.name = "JS";
     console.log(constVariable);
 }
-*/
+
 
 if(true){
     const constVariable = {
@@ -55,3 +55,4 @@ if(true){
     constVariable = "This is const again";
     console.log(constVariable);
 }
+*/
